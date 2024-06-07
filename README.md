@@ -1,5 +1,5 @@
 
-# Road Accident Dashboard (2021-2022)
+# Road Accident Dashboard (2021-2022) 
 
 ## Description
 This project aims to provide a comprehensive analysis of road accidents that occurred in the years 2021 and 2022. The Road Accident Dashboard is designed to offer valuable insights into various aspects of road safety, helping stakeholders to understand accident trends and identify risk factors.
