@@ -52,7 +52,5 @@ To use the Road Accident Dashboard:
 5. **Use interactive elements** like filters and drill-downs for detailed analysis.
 
 ## Author
-This project was created by [Your Name/Your Team].
+This project was created by Manikanta Damacharla(360Digitmg).
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
